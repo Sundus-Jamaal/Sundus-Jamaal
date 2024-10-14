@@ -55,24 +55,22 @@ I provide data solutions to optimize business workflows and reporting. I have wo
 
 ---
 
-### 📊 **Selected Projects**:
 
-#### **KFC: HR BI Developer & Workflow Automation**
-- Designed ETL workflows using SQL and Alteryx to process HR data for employees, improving accuracy.
-- Created real-time Tableau dashboards for API monitoring, cutting non-automated workloads.
+## 📊 Overview of My Projects and Roles
 
-#### **Northern Rail: Project Delivery & Quality Monitoring**
-- Integrated SAP data with Tableau to enhance operational efficiency and cut manual work by 25 hours weekly.
-- Implemented custom BI solutions, accelerating project delivery by 15%.
+Throughout my career, I have successfully delivered a variety of data-driven projects that showcase my versatility in the field of business intelligence and data solutions. Here are some key projects:
 
-#### **Inmarsat: Automation and Migration from Alteryx**
-- Migrated Alteryx workflows to Python, saving £75k annually and reducing workflow delays.
+- **KFC**: As an HR BI Developer, I designed ETL workflows and created real-time dashboards using SQL and Alteryx, optimizing data processing and enhancing reporting accuracy.
+  
+- **Northern Rail**: I integrated SAP data with Tableau to streamline project delivery, significantly reducing manual work and improving operational efficiency.
+  
+- **Inmarsat**: My role involved migrating workflows from Alteryx to Python, resulting in substantial cost savings and improved processing speed.
+  
+- **Sheffield Hallam University**: I optimized Tableau Server performance and conducted training sessions, empowering users to manage their dashboards effectively and improve user experience.
+  
+- **United Utilities**: I collaborated on a data model to analyze water consumption patterns, leading to improved operational efficiency.
 
-#### **Sheffield Hallam University: Server Optimization & Training**
-- Optimized Tableau Server, improving performance and enabling better dashboard management for over 100 users.
-
-#### **United Utilities: Water Consumption Analysis & Dashboard Development**
-- Collaborated on a data model for analyzing water consumption, improving operational efficiency.
+These experiences have equipped me to take on various roles such as **Data Analyst**, **BI Developer**, **Data Engineer**, and **Solutions Consultant**. I leverage my skills in data analysis, visualization, and workflow automation to drive meaningful business insights and facilitate data-driven decision-making.
 
 ---
 
