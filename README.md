@@ -58,21 +58,21 @@ I provide data solutions to optimize business workflows and reporting. I have wo
 ### 📊 **Selected Projects**:
 
 #### **KFC: HR BI Developer & Workflow Automation**
-- Designed ETL workflows using SQL and Alteryx to process HR data for 1,600+ employees, improving accuracy and speed by 25%.
-- Created real-time Tableau dashboards for API monitoring, cutting non-automated workloads by 30%.
+- Designed ETL workflows using SQL and Alteryx to process HR data for employees, improving accuracy.
+- Created real-time Tableau dashboards for API monitoring, cutting non-automated workloads.
 
 #### **Northern Rail: Project Delivery & Quality Monitoring**
 - Integrated SAP data with Tableau to enhance operational efficiency and cut manual work by 25 hours weekly.
 - Implemented custom BI solutions, accelerating project delivery by 15%.
 
 #### **Inmarsat: Automation and Migration from Alteryx**
-- Migrated Alteryx workflows to Python, saving £75k annually and reducing workflow delays by 25%.
+- Migrated Alteryx workflows to Python, saving £75k annually and reducing workflow delays.
 
 #### **Sheffield Hallam University: Server Optimization & Training**
-- Optimized Tableau Server, improving performance by 20% and enabling better dashboard management for over 100 users.
+- Optimized Tableau Server, improving performance and enabling better dashboard management for over 100 users.
 
 #### **United Utilities: Water Consumption Analysis & Dashboard Development**
-- Collaborated on a data model for analyzing water consumption, improving operational efficiency by 15%.
+- Collaborated on a data model for analyzing water consumption, improving operational efficiency.
 
 ---
 
